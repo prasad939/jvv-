@@ -120,22 +120,9 @@ print(get_firing_solution(565))    # False (above H_max)
 5. Uphill Duel: Counter-Battery Analysis
 Enemy ridge: y₀ = 565m → our position y = 0m
 
-Vertical motion:
-0
-=
-565
-+
-v
-0
-y
-t
-−
-4.905
-t
-2
-0=565+v 
-0y
- t−4.905t 
+Vertical motion:0=565+v0yt−4.905t2
+0=565+v 0y
+t−4.905t 
 2
  
 v
